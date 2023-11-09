@@ -1,0 +1,14 @@
+python -m pytest -v test_ohe_pytest.py
+
+Launching pytest with arguments D:/aaa_hw_python/omd/hw_4_python/test_ohe_pytest.py --no-header --no-summary -q in D:\aaa_hw_python\omd\hw_4_python
+
+============================= test session starts =============================
+collecting ... collected 4 items
+
+test_ohe_pytest.py::test_fit_transform_multiple PASSED                   [ 25%]
+test_ohe_pytest.py::test_fit_transform_list PASSED                       [ 50%]
+test_ohe_pytest.py::test_fit_transform_empty PASSED                      [ 75%]
+test_ohe_pytest.py::test_fit_transform_multiple_int PASSED               [100%]
+
+============================== 4 passed in 0.02s ==============================
+Process finished with exit code 0
