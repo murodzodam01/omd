@@ -1,0 +1,15 @@
+python -m unittest -v test_ohe_unittest.py
+
+Launching pytest with arguments test_ohe.py::TestOneHotEncoder --no-header --no-summary -q in D:\aaa_hw_python\omd\hw_4_python
+
+============================= test session starts =============================
+collecting ... collected 4 items
+
+test_ohe.py::TestOneHotEncoder::test_fit_transform_empty
+test_ohe.py::TestOneHotEncoder::test_fit_transform_list
+test_ohe.py::TestOneHotEncoder::test_fit_transform_multiple
+test_ohe.py::TestOneHotEncoder::test_fit_transform_multiple_int
+
+============================== 4 passed in 0.02s ==============================
+Process finished with exit code 0
+PASSED          [ 25%]PASSED           [ 50%]PASSED       [ 75%]PASSED   [100%]

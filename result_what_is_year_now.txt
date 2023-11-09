@@ -1,0 +1,14 @@
+python -m unittest -v test_what_is_year_now.py
+
+Launching pytest with arguments D:/aaa_hw_python/omd/hw_4_python/test_what_is_year_now.py --no-header --no-summary -q in D:\aaa_hw_python\omd\hw_4_python
+
+============================= test session starts =============================
+collecting ... collected 3 items
+
+test_what_is_year_now.py::TestWhatIsYearNow::test_DMY_format
+test_what_is_year_now.py::TestWhatIsYearNow::test_YMD_format
+test_what_is_year_now.py::TestWhatIsYearNow::test_what_is_year_now_invalid_format
+
+============================== 3 passed in 1.28s ==============================
+Process finished with exit code 0
+PASSED      [ 33%]PASSED      [ 66%]PASSED [100%]
