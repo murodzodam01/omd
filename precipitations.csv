@@ -1,0 +1,524 @@
+﻿City;Country;Year
+Debundscha;Cameroon;598,3
+Batna;Algeria;326,2
+Biskra;Algeria;129,1
+Skikda;Algeria;728,8
+Tamanrasset;Algeria;58,4
+Douala;Cameroon;3,602,7
+N'Djamena;Chad;510,3
+Brazzaville;Congo;1,394
+Mbabane;Eswatini;1,441,7
+Cocobeach;Gabon;3,126
+Banjul;Gambia;839,2
+Accra;Ghana;798,5
+Conakry;Guinea;3,784
+Bissau;Guinea Bissau;2,022,8
+Abidjan;Ivory Coast;1,847,6
+Maseru;Lesotho;691
+Monrovia;Liberia;4,624
+Niamey;Niger;540,8
+Abeokuta;Nigeria;1,246,3
+Kaduna;Nigeria;1,28
+Kano;Nigeria;1,149,2
+Lagos;Nigeria;1,506,6
+Port Harcourt;Nigeria;2,286,5
+Yola;Nigeria;886,1
+Dakar;Senegal;392,5
+Kaolack;Senegal;630,6
+Kolda;Senegal;1,057,8
+Ziguinchor;Senegal;1,401,2
+Freetown;Sierra Leone;4,433
+Cape Town;South Africa;492,8
+Durban;South Africa;1,019
+Port Elizabeth;South Africa;591,5
+Ceuta;Spain;849
+Melilla;Spain;391
+Dar es Salaam;Tanzania;1,117,4
+Lomé;Togo;830,3
+Mawsynram;India;133
+Faizabad;Afghanistan;484,9
+Herat;Afghanistan;238,9
+Jalalabad;Afghanistan;181,9
+Kabul;Afghanistan;312
+Khost;Afghanistan;476,5
+Mazar-i-Sharif;Afghanistan;186,4
+Artashat;Armenia;245
+Vanadzor;Armenia;565
+Yerevan;Armenia;363
+Manama;Bahrain;70,8
+Sibsu;Bhutan;5,520,5
+Thimphu;Bhutan;608
+Beijing;China;528
+Chengdu;China;923
+Hefei;China;1,042,8
+Hong Kong;China;2,431,3
+Shanghai;China;1,245,5
+Turpan;China;45487
+Ürümqi;China;305,2
+Agra;India;760,7
+Delhi;India;758,9
+Guwahati;India;1,695,3
+Hyderabad;India;859,6
+Imphal;India;1,381,1
+Jammu;India;1,402,0
+Kolkata;India;1,813,3
+Kohima;India;1,727,6
+Mumbai;India;2,213,4
+Panaji;India;2,984,1
+Pondicherry;India;1,354,0
+Port Blair;India;2,968,3
+Shimla;India;1,487,3
+Srinagar;India;697,5
+Ahvaz;Iran;209,2
+Astara;Iran;1,345,0
+Bandar-e Anzali;Iran;1,713,8
+Gorgan;Iran;583,8
+Ilam;Iran;550,6
+Isfahan;Iran;125
+Kermanshah;Iran;439,2
+Mashhad;Iran;251,5
+Sanandaj;Iran;449,9
+Tabriz;Iran;283,8
+Tehran;Iran;231,6
+Yazd;Iran;52,2
+Baghdad;Iraq;124,7
+Mosul;Iraq;363,6
+Nagoya;Japan;1,535,4
+Owase;Japan;3,969,7
+;;
+;;
+Aktau;Kazakhstan;138
+Almaty;Kazakhstan;673
+Astana;Kazakhstan;338
+Labuan;Malaysia;3,244,8
+Ulaanbaatar;Mongolia;260
+Chongjin;North Korea;613,9
+Pyongyang;North Korea;936,4
+Muscat;Oman;100,3
+Islamabad;Pakistan;1,268,6
+Lahore;Pakistan;674,2
+Quetta;Pakistan;241,5
+Doha;Qatar;75,2
+Irkutsk;Russia;477
+Petropavlovsk-;Russia;1177
+Kamchatsky;;
+Vladivistok;Russia;862
+Jeju City;South Korea;1,502,3
+Seoul;South Korea;1,417,9
+Damascus;Syria;124,7
+Homs;Syria;429,4
+Taipei;Taiwan;2,368,5
+Dushanbe;Tajikistan;654
+Khujand;Tajikistan;226
+Ankara;Turkey;413,6
+Antalya;Turkey;1070,4
+Bolu;Turkey;573,6
+Bursa;Turkey;719,1
+Erzurum;Turkey;429,3
+Giresun;Turkey;1290,5
+Kars;Turkey;506
+Konya;Turkey;325,3
+Rize;Turkey;2,309,5
+Trabzon;Turkey;828
+Urfa;Turkey;459,3
+Ashgabat;Turkmenistan;221
+Bukhara;Uzbekistan;132,4
+Tirana;Albania;1,266,0
+Vienna;Austria;673,1
+Bregenz;Austria;1,519,0
+Graz;Austria;854,2
+Minsk;Belarus;690
+Brussels;Belgium;848
+Banja Luka;Bosnia and Herzegovina;1,037,2
+Bihać;Bosnia and Herzegovina;1,308,8
+Mostar;Bosnia and Herzegovina;1,522,5
+Sarajevo;Bosnia and Herzegovina;928
+Sofia;Bulgaria;625
+Varna;Bulgaria;516
+Parg;Croatia;1,841,0
+Zagreb;Croatia;840,1
+Split;Croatia;782,8
+Nicosia;Cyprus;342,2
+Liberec;Czech Republic;845,3
+Prague;Czech Republic;587
+Copenhagen;Denmark;645,7
+Tallinn;Estonia;700
+Kurmangazy;European Kazakhstan;149,8
+Tórshavn;Faroe Islands;1,321,3
+Helsinki;Finland;655
+Ajaccio;France;635
+Biarritz;France;1,473,6
+Bordeaux;France;924,9
+Lille;France;740
+Lyon;France;831,9
+Marseille;France;532,3
+Paris;France;637,4
+Saint-Étienne;France;728,3
+Toulouse;France;627
+Akhaltsikhe;Georgia;527,9
+Ambrolauri;Georgia;1112,4
+Batumi;Georgia;2,519,0
+Kutaisi;Georgia;1,461,0
+Poti;Georgia;2,068,3
+Tbilisi;Georgia;495,5
+Zugdidi;Georgia;1,951,8
+Bad Wiessee;Germany;2,388,9
+Berlin;Germany;515,2
+Cologne;Germany;802,1
+Frankfurt;Germany;598,5
+Hamburg;Germany;776,6
+Magdeburg;Germany;515,8
+Oberstdorf;Germany;1,801,2
+Athens;Greece;433,1
+Heraklion;Greece;483,2
+Kerkyra;Greece;1,097,3
+Thessaloniki;Greece;435,5
+Piraeus;Greece;331,9
+Schoinoussa;Greece;239,8
+Budapest;Hungary;532
+Miskolc;Hungary;643,9
+Pécs;Hungary;670,9
+Reykjavík;Iceland;843,3
+Vík í Mýrdal;Iceland;2,252,5
+Dublin;Ireland;758
+Valentia Island;Ireland;1,557,4
+Bari;Italy;466,6
+Bolzano;Italy;711,5
+Cagliari;Italy;413,4
+Campobasso;Italy;673,5
+Florence;Italy;872,6
+Naples;Italy;1,008,2
+Palermo;Italy;855,4
+Pescara;Italy;639,2
+Rome;Italy;798,5
+Tarvisio;Italy;1,417,0
+Turin;Italy;981
+Riga;Latvia;620,9
+Vilnius;Lithuania;653,8
+Luxembourg City;Luxembourg;896,9
+Valletta;Malta;595,8
+Chișinău;Moldova;548
+Monaco;Monaco;743,6
+Podgorica;Montenegro;1,659,3
+Cetinje;Montenegro;3,303,1
+Amsterdam;Netherlands;838,2
+Skopje;North Macedonia;483
+Bergen;Norway;2,412,8
+Oslo;Norway;802,7
+Tromsø;Norway;1,090,6
+Warsaw;Poland;529
+Aveiro;Portugal;944
+Braga;Portugal;1,448,6
+Faro;Portugal;511,6
+Lisbon;Portugal;774
+Porto;Portugal;1,237,0
+Bacău;Romania;618,4
+Bucharest;Romania;643
+Constanța;Romania;429,9
+Râmnicu Vâlcea;Romania;727,8
+Sulina;Romania;240,5
+Timișoara;Romania;593
+Astrakhan;European Russia;231
+Kaliningrad;Russia;816
+Kazan;Russia;565
+Moscow;Russia;714
+Saint Petersburg;Russia;670
+Saratov;Russia;466
+Sochi;Russia;1,703,0
+Vladikavkaz;Russia;955
+Belgrade;Serbia;690,9
+Niš;Serbia;580,3
+Bratislava;Slovakia;565
+Košice;Slovakia;613
+Prešov;Slovakia;647,9
+Bovec;Slovenia;2,603,0
+Ljubljana;Slovenia;1,362,0
+Almería;Spain;200
+Barcelona;Spain;588
+Bilbao;Spain;1,134,0
+Madrid;Spain;423
+Santiago de Compostela;Spain;1,787,0
+Seville;Spain;539
+Valencia;Spain;475
+Zaragoza;Spain;322
+Gothenburg;Sweden;912,2
+Stockholm;Sweden;546,4
+Zürich;Switzerland;1,134,0
+Geneva;Switzerland;946
+Sion;Switzerland;583
+Lugano;Switzerland;1,566,6
+Locarno;Switzerland;1,855,1
+Camedo;Switzerland;2,284,7
+Edirne;Turkey;601,9
+Istanbul;Turkey;849,6
+Kyiv;Ukraine;620,7
+Belfast;United Kingdom;862,4
+Capel Curig;United Kingdom;2,697,1
+Cardiff;United Kingdom;1,203,5
+Edinburgh;United Kingdom;704,3
+Glasgow;United Kingdom;1,370,4
+Liverpool;United Kingdom;824,3
+London;United Kingdom;601,7
+Gibraltar;United Kingdom (Overseas territories);740,8
+Simferopol;Crimea;501
+St. John's;Antigua and Barbuda;1049,4
+Oranjestad;Aruba;451,1
+Nassau;The Bahamas;1,426,0
+Hamilton;Bermuda;1,453,8
+Kingston;Jamaica;813
+Port Antonio;Jamaica;3082
+Calgary;Canada;445,4
+Montreal;Canada;1,000,3
+Prince Rupert;Canada;2,619,1
+Vancouver;Canada;1189
+Acapulco;Mexico;1,336,8
+Monterrey;Mexico;666,6
+Tijuana;Mexico;230,9
+Toluca;Mexico;980,7
+Anchorage;United States;417,4
+Atlanta;United States;1252,6
+Austin;United States;920,6
+Chicago;United States;1,038,0
+Cincinnati;United States;1252,6
+Columbus (Ohio);United States;1,056,0
+Dallas;United States;973,2
+Denver;United States;390
+Des Moines;United States;909,7
+Detroit;United States;872
+Los Angeles;United States;362
+Miami;United States;1,712,0
+Nashville;United States;1,283,0
+New York City;United States;1,258,0
+Phoenix;United States;183
+Portland;United States;938
+San Diego;United States;249
+San Francisco;United States;501
+Seattle;United States;945
+Adelaide;Australia;537,6
+Babinda;Australia;4,279,4
+Brisbane;Australia;1,040,5
+Canberra;Australia;668,3
+Coober Pedy;Australia;141
+Cairns;Australia;1,966,0
+Darwin;Australia;1,832,4
+Hobart;Australia;611,5
+Melbourne;Australia;515,4
+Perth;Australia;729,6
+Sydney;Australia;1,147,1
+Wyndham;Australia;925,4
+Norfolk Island;Australia;1,109,8
+Avarua;Cook Islands;2,206,0
+Rotuma (Ahau);Fiji;3,489,0
+Suva;Fiji;3,023,0
+Afaʻahiti;French Polynesia;3,374,7
+Papeʻete;French Polynesia;2,065,1
+Rapa Iti;French Polynesia;2,435,9
+Dededo;Guam;2,572,5
+Kiritimati;Kiribati;1,050,9
+Tarawa;Kiribati;2,053,0
+Malem;Micronesia;5,447,0
+Kwajalein;Marshall Islands;2,593,0
+Majuro;Marshall Islands;3,334,0
+Palikir;Micronesia;5,202,0
+Nouméa;New Caledonia;1,034,3
+Yaté;New Caledonia;2,604,9
+Alexandra;New Zealand;359,4
+Auckland;New Zealand;1,212,5
+Hokitika;New Zealand;2,855,5
+Milford Sound;New Zealand;6,427,7
+Wellington;New Zealand;1,250,4
+Koror;Palau;3,758,3
+Daru;Papua New Guinea;2,099,0
+Ialibu;Papua New Guinea;3,539,0
+Kikori;Papua New Guinea;5,611,0
+Lae;Papua New Guinea;4,677,1
+Madang;Papua New Guinea;3,509,0
+Mount Hagen;Papua New Guinea;2,637,8
+Port Moresby;Papua New Guinea;1,170,0
+Apia;Samoa;2,965,0
+Pago Pago;American Samoa;3,259,0
+Gizo;Solomon Islands;3,669,0
+Honiara;Solomon Islands;2,177,0
+Nukuʻalofa;Tonga;1,721,0
+Funafuti;Tuvalu;3,513,6
+Hilo;United States;3,060,0
+Honolulu;United States;416
+Port Vila;Vanuatu;2,338,9
+Sola;Vanuatu;4,662,8
+Mata Utu;Wallis and Futuna;3,322,6
+;;
+South America;;
+;;
+Average monthly precipitation (in mm) for selected cities in South America;;
+City;Country;Year
+Bahía Blanca;Argentina;651,2
+Bariloche;Argentina;1,096,5
+Bernardo de Irigoyen;Argentina;2,345,3
+Buenos Aires;Argentina;1,236,3
+Córdoba;Argentina;881,7
+El Calafate;Argentina;171,4
+Los Toldos;Argentina;1,829,2
+Mendoza;Argentina;238
+Neuquén;Argentina;200,9
+Puerto Blest;Argentina;3,327,4
+Resistencia;Argentina;1,432,9
+Río Gallegos;Argentina;268,3
+Rosario;Argentina;1,053,5
+San Juan;Argentina;90,7
+Orán;Argentina;1,045,9
+Ushuaia;Argentina;537
+Villa la Angostura;Argentina;1,848,3
+Cobija;Bolivia;1,978,6
+La Paz;Bolivia;602,5
+San Ignacio;Bolivia;2,417,6
+Santa Cruz;Bolivia;1,440,2
+Sucre;Bolivia;735
+Uyuni;Bolivia;186,9
+Villa Tunari;Bolivia;5,676,0
+Aracaju;Brazil;1,695,3
+Belém;Brazil;3,084,0
+Boa Vista;Brazil;1,754,0
+Brasília;Brazil;1,478,8
+Calçoene;Brazil;4,164,6
+Florianópolis;Brazil;1,768,6
+Fortaleza;Brazil;1,584,0
+João Pessoa;Brazil;2,145,3
+Macapá;Brazil;2,549,7
+Maceió;Brazil;1,867,4
+Manaus;Brazil;2,301,2
+Natal;Brazil;1,691,2
+Paranaguá;Brazil;2,284,3
+Parnaíba;Brazil;1,596,4
+Petrolândia;Brazil;428,1
+Porto Alegre;Brazil;1,425,2
+Porto Velho;Brazil;2,255,1
+Recife;Brazil;2,417,7
+Rio de Janeiro;Brazil;1,069,2
+Salvador;Brazil;2,144,1
+São Luís;Brazil;2,290,2
+São Paulo;Brazil;1,658,3
+Taracuá;Brazil;3,637,6
+Teresópolis;Brazil;2,774,4
+Vitória;Brazil;1,252,3
+Antofagasta;Chile;45414
+Arica;Chile;45505
+Armerillo, San Clemente;Chile;2,542,1
+Calama;Chile;45540
+Caleta Chaihuín;Chile;3,695,1
+Chaitén;Chile;5,091,8
+Concepción;Chile;1,090,3
+Copiapó;Chile;45522
+La Serena;Chile;86,8
+Puerto Aguirre;Chile;3,673,8
+Puerto Aysén;Chile;2,238,5
+Punta Arenas;Chile;408,2
+Quillagua;Chile;0,05
+Santiago;Chile;341,9
+San Pedro de Atacama;Chile;38
+Valdivia;Chile;1,752,9
+Villa Puerto Edén;Chile;5,745,0
+Visviri;Chile;336
+Aguadas;Colombia;2,905,1
+Arauca;Colombia;1,867,7
+Armenia;Colombia;2,159,6
+Bahía Solano;Colombia;5,408,6
+Barranquilla;Colombia;820
+Bogotá;Colombia;841,3
+Briceño, Antioquia;Colombia;6,528,7
+Buenaventura;Colombia;6,898,2
+Cali;Colombia;1,048,9
+Cartagena;Colombia;1,087,0
+Cúcuta;Colombia;904,2
+Ibagué;Colombia;1,691,6
+Inírida;Colombia;3,328,1
+Junín, Nariño;Colombia;8,811,0
+La Pedrera;Colombia;3,934,1
+La Raya;Colombia;4,590,9
+Leticia;Colombia;3,389,1
+López de Micay;Colombia;15,992,1
+Manizales;Colombia;1,583,6
+Medellín;Colombia;1,752,3
+Mesopotamia;Colombia;3,506,2
+Mitú;Colombia;3,355,6
+Mocoa;Colombia;3,743,7
+Mutatá;Colombia;5,384,4
+Neiva;Colombia;1,384,3
+Pasto;Colombia;826,5
+Pereira;Colombia;2,424,5
+Popayán;Colombia;2,127,2
+Puerto Carreño;Colombia;2,328,6
+Puerto López;Colombia;249,5
+Quibdó;Colombia;8,130,5
+Restrepo, Meta;Colombia;8,000,7
+Riohacha;Colombia;634
+San Antonio de Yurumangui;Colombia;9,444,5
+San José del Guaviare;Colombia;2,725,5
+Santa Marta;Colombia;545,2
+Sincelejo;Colombia;1,288,3
+Tumaco;Colombia;2,658,4
+Tutunendo;Colombia;11,596,1
+Valledupar;Colombia;1,308,2
+Villavicencio;Colombia;4,537,9
+Yopal;Colombia;2,390,1
+Alto Tambo;Ecuador;6,850,4
+El Coca;Ecuador;3,319,0
+Esmeraldas;Ecuador;738
+Guayaquil;Ecuador;1,273,7
+Latacunga;Ecuador;515
+Loja;Ecuador;892,5
+Macas;Ecuador;2,914,3
+Machala;Ecuador;489
+Manta;Ecuador;253,8
+Nanegalito;Ecuador;3,389,1
+Nueva Loja;Ecuador;3,477,0
+Puerto Baquerizo Moreno;Ecuador;577,7
+Puyo;Ecuador;4,536,0
+Quito;Ecuador;1,098,2
+Salinas;Ecuador;117
+San Francisco de Borja;Ecuador;3,319,8
+San Lorenzo;Ecuador;2,879,0
+Santo Domingo;Ecuador;3,174,3
+Tena;Ecuador;4,552,6
+Tulcán;Ecuador;941
+Cayenne;French Guiana;3,488,2
+Charvein;French Guiana;2,837,8
+Ouanary;French Guiana;3,896,5
+Saül;French Guiana;2,522,7
+Georgetown;Guyana;2,260,3
+Linden;Guyana;3,058,0
+Asunción;Paraguay;1,401,2
+Encarnación;Paraguay;1,759,7
+Filadelfia;Paraguay;724
+Arequipa;Peru;96,5
+Cerro de Pasco;Peru;918
+Chiclayo;Peru;45561
+Chontachaca;Peru;5,469,0
+Cusco;Peru;737
+Ilo;Peru;45323
+Iquitos;Peru;2,878,3
+San Gaban District;Peru;6,629,0
+Lima;Peru;45388
+Piura;Peru;116,4
+Pongo de Caynarachi;Peru;4,496,0
+Pucallpa;Peru;1,667,0
+Puerto Maldonado;Peru;2,167,0
+Quince Mil;Peru;7,353,9
+Sandia;Peru;2,289,4
+Tacna;Peru;45380
+Trujillo;Peru;45355
+Paramaribo;Suriname;2,192,2
+Montevideo;Uruguay;1,142,0
+Rivera;Uruguay;1,604,9
+Barinas;Venezuela;1,647,6
+Caracas;Venezuela;912,8
+Casigua-El Cubo;Venezuela;3,545,9
+Colonia Tovar;Venezuela;1,447,6
+Maracaibo;Venezuela;580,4
+Maracay;Venezuela;925,5
+Mérida;Venezuela;1,784,7
+Mucuchíes;Venezuela;823
+Puerto Ayacucho;Venezuela;2,288,6
+San Fernando de Apure;Venezuela;1,414,6
+San Juan de los Morros;Venezuela;1,681,1
+Urimán;Venezuela;3,535,1
+Valencia;Venezuela;1,404,5
