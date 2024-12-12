@@ -1,0 +1,15 @@
+python -m pytest -v result_decode_morse_pytest.py
+
+Launching pytest with arguments test_decode_morse_pytest.py::test_decode_morse_pytest --no-header --no-summary -q in D:\aaa_hw_python\omd\hw_4_python
+
+============================= test session starts =============================
+collecting ... collected 4 items
+
+test_decode_morse_pytest.py::test_decode_morse_pytest[-- .- ..-MAI]
+test_decode_morse_pytest.py::test_decode_morse_pytest[... --- ...-SOS]
+test_decode_morse_pytest.py::test_decode_morse_pytest[-- ---MM]
+test_decode_morse_pytest.py::test_decode_morse_pytest[-]
+
+============================== 4 passed in 0.29s ==============================
+Process finished with exit code 0
+PASSED [ 25%]PASSED [ 50%]PASSED   [ 75%]PASSED          [100%]
